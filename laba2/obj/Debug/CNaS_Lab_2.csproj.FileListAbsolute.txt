@@ -1,0 +1,14 @@
+D:\С#\CNaS_Lab_2\bin\Debug\CNaS_Lab_2.exe.config
+D:\С#\CNaS_Lab_2\bin\Debug\CNaS_Lab_2.exe
+D:\С#\CNaS_Lab_2\bin\Debug\CNaS_Lab_2.pdb
+D:\С#\CNaS_Lab_2\obj\Debug\CNaS_Lab_2.csprojAssemblyReference.cache
+D:\С#\CNaS_Lab_2\obj\Debug\CNaS_Lab_2.csproj.CoreCompileInputs.cache
+D:\С#\CNaS_Lab_2\obj\Debug\CNaS_Lab_2.exe
+D:\С#\CNaS_Lab_2\obj\Debug\CNaS_Lab_2.pdb
+\\Mac\Home\Downloads\CSaN_Lab_2-main\bin\Debug\CNaS_Lab_2.exe.config
+\\Mac\Home\Downloads\CSaN_Lab_2-main\bin\Debug\CNaS_Lab_2.exe
+\\Mac\Home\Downloads\CSaN_Lab_2-main\bin\Debug\CNaS_Lab_2.pdb
+\\Mac\Home\Downloads\CSaN_Lab_2-main\obj\Debug\CNaS_Lab_2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CSaN_Lab_2-main\obj\Debug\CNaS_Lab_2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CSaN_Lab_2-main\obj\Debug\CNaS_Lab_2.exe
+\\Mac\Home\Downloads\CSaN_Lab_2-main\obj\Debug\CNaS_Lab_2.pdb

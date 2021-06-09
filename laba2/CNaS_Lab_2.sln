@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNaS_Lab_2", "CNaS_Lab_2.csproj", "{2A48173E-7EAE-4AE5-AEAC-47B4B8D38FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A48173E-7EAE-4AE5-AEAC-47B4B8D38FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A48173E-7EAE-4AE5-AEAC-47B4B8D38FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A48173E-7EAE-4AE5-AEAC-47B4B8D38FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A48173E-7EAE-4AE5-AEAC-47B4B8D38FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECE8581F-AAB7-4361-B13E-315EFEA8CEE8}
+	EndGlobalSection
+EndGlobal
